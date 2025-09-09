@@ -1,0 +1,27 @@
+--- problem1.py ---
+3 2 2 3
+
+--- problem2.py ---
+GAUUACA
+
+--- problem3.py ---
+CTAATGT
+
+--- problem4.py ---
+50.0
+
+--- problem5.py ---
+2
+
+--- problem6.py ---
+MAIVMGR*KGAR*
+
+--- problem7.py ---
+CGATCGATCGCAT
+
+--- problem8.py ---
+2
+
+--- problem9.py ---
+[1, 7]
+
